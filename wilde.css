@@ -72,3 +72,29 @@ tr{
     border: double 2px rgb(83, 29, 50);
     width:auto;
   }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.navbar-horizontal li {
+    float: left;
+    color: #000;
+    background-color: olivedrab;
+    border: 2px solid black;
+  }
+  ul.navbar-horizontal a {
+    display: block;
+    padding: 30px;
+  }
+  ul.navbar-horizontal a:hover {
+    background-color: mistyrose;
+    color: white;
+    width: auto;
+  }
