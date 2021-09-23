@@ -1,0 +1,22 @@
+.speech {
+    /*text-align: center;*/
+    font : 'Times New Roman';
+    font-size: 14px;
+    color: black;
+  }
+  .stage-direction{
+    font : 'sans-serif';
+    background-color: aquamarine;
+    font-size: 17px;
+    color: black;
+  }
+  .description {
+    /*text-align: center;*/
+    font : 'Times New Roman';
+    font-size: 16px;
+    color: black;
+  }
+  .stage-direction:hover{
+    background-color: blue;
+    color: red;
+  }
