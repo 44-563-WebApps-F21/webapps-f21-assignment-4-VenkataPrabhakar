@@ -37,3 +37,27 @@ ladyhunstain{
 ladyhunstain{
     color: plum;
 }
+table{
+    border: 1px solid rgb(59, 24, 24);
+    padding: 25px 30px 35px;
+    margin: 50px 50px;
+    width: 60%; 
+  }
+  th{
+    color:black;
+    border: 1px mixed black;
+    text-align: center;
+    background-color: goldenrod
+
+
+  }
+  td{
+    color: black;
+    border: 1px mixed black;
+    text-align: left;
+  }
+
+
+  tr{
+    background-color: silver;
+  }
